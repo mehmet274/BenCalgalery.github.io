@@ -1,0 +1,126 @@
+body {
+  color: black;
+  background-color: rgb(255, 255, 255);
+  margin: 30px;
+  text-decoration: none !important;
+}
+i {
+  font-size: 30px;
+  color: black;
+}
+.logo {
+  display: flex;
+  gap: 10px;
+}
+#sal {
+  margin: 0;
+  font-size: 25px;
+}
+.as {
+  flex-direction: column;
+  display: flex;
+  gap: 3px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+#sa {
+  margin-top: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  display: flex;
+  gap: 5px;
+  color: black;
+}
+.nawbar {
+  display: flex;
+  gap: 20px;
+}
+.a {
+  display: flex;
+  gap: 500px;
+  justify-content: center;
+  align-items: center;
+}
+.nawbar a {
+  text-decoration: none;
+  color: black;
+}
+.b {
+  display: flex;
+  gap: 320px;
+}
+.arac-karti {
+
+
+
+  width: 300px;
+  height: auto;
+  padding: 10px;
+  border: 3px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background: #fffbfb;
+}
+.arac-karti img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+.bilgi {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  color: black;
+}
+.bilgi * {
+  margin: 0;
+}
+i {
+  font-size: 15px;
+}
+.arac{
+
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+.super-sport{
+    width: 300px;
+  height: auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background: gold;
+
+}
+.super-sport img{
+    width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+.super{
+    align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  color:black;
+}
+.bilgi-1 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  color: black;
+}
+#sport{
+  display: flex;
+  justify-content: center;
+}

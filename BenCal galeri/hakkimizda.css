@@ -1,0 +1,79 @@
+body {
+  color: rgb(0, 0, 0);
+  background-color: #ffffff;
+  margin: 30px;
+  text-decoration: none !important;
+}
+i {
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+}
+.logo {
+  display: flex;
+  gap: 10px;
+}
+#sal {
+  margin: 0;
+  font-size: 25px;
+}
+.as {
+  flex-direction: column;
+  display: flex;
+  gap: 3px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+#sa {
+  margin-top: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  display: flex;
+  gap: 5px;
+  color: rgb(0, 0, 0);
+}
+.nawbar {
+  display: flex;
+  gap: 20px;
+}
+.a {
+  display: flex;
+  gap: 500px;
+  justify-content: center;
+  align-items: center;
+}
+.nawbar a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.b {
+  display: flex;
+  gap: 320px;
+}
+.yazi {
+  display: flex;
+  flex-direction: column;
+
+  color: #444444;
+}
+#ba {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: #111111;
+}
+#k {
+  color: #006699;
+   background-color: #f0f0f0;
+}
+#v {
+  color: #d62828;
+ 
+}
+.iletisim{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 20px;
+    margin-top: 170px;
+}
